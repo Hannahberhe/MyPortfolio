@@ -18,11 +18,11 @@ Code Explanation: The application is divided into separate modules, each handlin
 
 ## Competencies
 
-# JOB FUNCTION 2: 
+# JOB FUNCTION 2:3 Can develop effective user interfaces				
 As part of my project, I had to conceptualize a secure and user-friendly journal application. It required a deep understanding of user requirements and translating those into a simple yet efficient application.
-## JF 2.4: 
+## JF 2.4: Can create simple software designs to effectively communicate understanding of the program				
 My goal was to create a software design that effectively communicates the journal application's structure. I made the application blueprint using software design tools, including the server setup, database connections, routes, and data seeding operations. This approach helped me map out the application's various components, enhancing the system's overall understanding.
-## JF 2.6: 
+## JF 2.6: Can translate wireframes into User Interfaces				
 Though this project was mostly back-end focused, I still had to visualize how the endpoints would interact with potential front-end interfaces. I created mockups of how the endpoints might be used in a user interface, such as forms for creating and editing journal entries and list views for displaying them. This allowed me to design the API with the final user interface in mind.
 
 ## Describe a situation where you demonstrated this job function:
@@ -49,6 +49,4 @@ To accomplish this, I first audited the application for any potential security r
 As a result, the application was successfully deployed and securely available for use. This process has reinforced my skills in managing and deploying applications, conducting thorough testing, and adhering to industry security standards.
 
 
-
-<img width="829" alt="Screenshot 2023-03-20 144739" src="https://github.com/Hannahberhe/MyPortfolio/assets/100711758/58b53578-39f3-48e2-a1e9-699957da5ba5">
 
