@@ -8,10 +8,10 @@ Code Explanation: The application is divided into separate modules, each handlin
 
 ## Technologies:
 
-  Node.js & Express: for server setup and defining routes.
-  Sequelize & SQLite: for database operations and storage.
-  Auth0 & OpenID Connect: for user authentication.
-  dotenv: for configuring environment variables.
+ ##### Node.js & Express
+ ##### Sequelize & SQLite
+ ##### Auth0 & OpenID Connect
+ ##### dotenv
 
 ## Link to the project : 
 	https://github.com/OperationAda/AdasJournal-1
@@ -49,4 +49,5 @@ To accomplish this, I first audited the application for any potential security r
 As a result, the application was successfully deployed and securely available for use. This process has reinforced my skills in managing and deploying applications, conducting thorough testing, and adhering to industry security standards.
 
 
-
+## link to repository 
+https://github.com/OperationAda/AdasJournal
