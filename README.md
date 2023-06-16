@@ -1,6 +1,6 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my Thrive apprenticeship at Verizon.
+### This repository is a collection of some of my key learnings during my Thrive apprenticeship at Verizon.
 
 ## Overview of Apprenticeship
 ## Host Company: Verizon
